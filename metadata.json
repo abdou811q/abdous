@@ -1,0 +1,7 @@
+{
+  "name": "Physics Fall Simulation",
+  "description": "An interactive 3D physics simulation of an object in free fall, considering forces like gravity, air resistance, and Archimedes' thrust. Users can adjust parameters and visualize the results in real-time.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
